@@ -1,0 +1,15 @@
+/home/raj.soni/practice/bin/Debug/net7.0/practice
+/home/raj.soni/practice/bin/Debug/net7.0/practice.deps.json
+/home/raj.soni/practice/bin/Debug/net7.0/practice.runtimeconfig.json
+/home/raj.soni/practice/bin/Debug/net7.0/practice.dll
+/home/raj.soni/practice/bin/Debug/net7.0/practice.pdb
+/home/raj.soni/practice/obj/Debug/net7.0/practice.csproj.AssemblyReference.cache
+/home/raj.soni/practice/obj/Debug/net7.0/practice.GeneratedMSBuildEditorConfig.editorconfig
+/home/raj.soni/practice/obj/Debug/net7.0/practice.AssemblyInfoInputs.cache
+/home/raj.soni/practice/obj/Debug/net7.0/practice.AssemblyInfo.cs
+/home/raj.soni/practice/obj/Debug/net7.0/practice.csproj.CoreCompileInputs.cache
+/home/raj.soni/practice/obj/Debug/net7.0/practice.dll
+/home/raj.soni/practice/obj/Debug/net7.0/refint/practice.dll
+/home/raj.soni/practice/obj/Debug/net7.0/practice.pdb
+/home/raj.soni/practice/obj/Debug/net7.0/practice.genruntimeconfig.cache
+/home/raj.soni/practice/obj/Debug/net7.0/ref/practice.dll
